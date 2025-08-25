@@ -10,6 +10,30 @@
 </p>
 
 🚀 About Me
+```pythonclass DataAnalyst:
+    def __init__(self):
+        self.name = "Precious Andrew"
+        self.role = "Data Analyst & Business Intelligence Specialist"
+        self.location = "London, UK"
+        self.experience = "4+ years"
+        self.passion = "Transforming data into business value"
+    
+    def get_skills(self):
+        return {
+            "analytics": ["SQL", "Power BI", "Excel", "Statistical Analysis"],
+            "programming": ["Python", "R", "Google Apps Script", "JavaScript"],
+            "specialties": ["Predictive Modeling", "Dashboard Development", "Process Automation"],
+            "industries": ["Healthcare Tech", "Energy", "Finance", "Non-profit"]
+        }
+    
+    def current_impact(self):
+        return {
+            "cost_savings": "£15,000+ annually",
+            "revenue_impact": "£2M+ donation optimization",
+            "efficiency_gains": "80% reduction in manual processes",
+            "accuracy_improvements": "95% error reduction in reporting"
+        }
+```
 
         
 🔭 What I'm Currently Working On
