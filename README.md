@@ -10,7 +10,7 @@
 </p>
 
 🚀 About Me
-pythonclass DataAnalyst:
+``` class DataAnalyst:
     def __init__(self):
         self.name = "Precious Andrew"
         self.role = "Data Analyst & Business Intelligence Specialist"
@@ -32,8 +32,7 @@ pythonclass DataAnalyst:
             "revenue_impact": "£2M+ donation optimization",
             "efficiency_gains": "80% reduction in manual processes",
             "accuracy_improvements": "95% error reduction in reporting"
-        }
-
+        } ```
 🔭 What I'm Currently Working On
 
 🏦 Finance Analytics Dashboard: Building an automated reporting system processing donations
