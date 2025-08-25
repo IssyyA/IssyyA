@@ -51,12 +51,3 @@ Business Intelligence & Analytics
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat">
 </p>
 
-## 🏆 Featured Projects
-<div align="center">
-Show Image
-Show Image
-</div>
-
-<div align="center">
-  <h3>💫 Turning data complexity into business clarity, one insight at a time 💫</h3>
-</div>
