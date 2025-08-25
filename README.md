@@ -20,7 +20,7 @@
 
 🌱 Currently Learning  
 
-Cloud Analytics: Exploring Azure/AWS data platforms for scalable solutions
+Cloud Analytics: Exploring Azure data platform for scalable solutions
 
 <!-- 
 💼 Recent Achievements
