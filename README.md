@@ -1,4 +1,4 @@
-## Hi there, It's Precious 👋
+## Hi there, My name is Precious 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;4%2B+Years+in+Analytics+%26+Optimization;Power+BI+Certified+Professional" alt="Typing SVG" />
@@ -9,6 +9,10 @@
   <a href="mailto:preciousiandrew@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+🚀 About Me
+I'm a data analyst with 4+ years of experience helping businesses make sense of their data. I've worked across healthcare tech, energy, and finance, basically anywhere there's messy data that needs organizing and stories that need telling.
+I love building dashboards that actually get used (not just pretty ones that sit in folders), automating the boring stuff so teams can focus on the interesting problems, and creating predictive models that help businesses plan ahead instead of just react.
+When I'm not diving into databases or wrestling with SQL queries, you'll find me on YouTube teaching others how to get into analytics. There's something really satisfying about helping someone have that "aha!" moment with data.
       
 🔭 What I'm Currently Working On
 
@@ -62,23 +66,6 @@ Business Intelligence & Analytics
 Show Image
 Show Image
 </div>
-
-<!-- 📺 Latest YouTube Content
-<!-- YOUTUBE:START -->
-<!--📊 Power BI Tutorial: Building Interactive Dashboards for Business Analytics
-📈 Excel to SQL: Transitioning from Spreadsheets to Database Analysis
-🎯 Data Visualization: Best Practices for Clear, Impactful Charts
-🔍 Root Cause Analysis: Using Data to Solve Business Problems
-
-<!-- YOUTUBE:END -->
-<!--▶️ Watch More on IssyBi Channel -->
-
-🤝 Let's Collaborate On
-
-📊 Open Source Analytics Projects: Building tools for the data community  
-🎓 Educational Content: Data tutorials, best practices, methodology sharing  
-💡 Business Problem Solving: Using data to drive meaningful change  
-🌍 Social Impact Projects: Analytics for non-profits and community organizations  
 
 <div align="center">
   <h3>💫 Turning data complexity into business clarity, one insight at a time 💫</h3>
