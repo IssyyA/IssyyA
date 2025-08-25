@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, It's Precious 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;4%2B+Years+in+Analytics+%26+Optimization;Power+BI+Certified+Professional" alt="Typing SVG" />
@@ -10,29 +10,8 @@
 </p>
 
 🚀 About Me
-``` class DataAnalyst:
-    def __init__(self):
-        self.name = "Precious Andrew"
-        self.role = "Data Analyst & Business Intelligence Specialist"
-        self.location = "London, UK"
-        self.experience = "4+ years"
-        self.passion = "Transforming data into business value"
-    
-    def get_skills(self):
-        return {
-            "analytics": ["SQL", "Power BI", "Excel", "Statistical Analysis"],
-            "programming": ["Python", "R", "Google Apps Script", "JavaScript"],
-            "specialties": ["Predictive Modeling", "Dashboard Development", "Process Automation"],
-            "industries": ["Healthcare Tech", "Energy", "Finance", "Non-profit"]
-        }
-    
-    def current_impact(self):
-        return {
-            "cost_savings": "£15,000+ annually",
-            "revenue_impact": "£2M+ donation optimization",
-            "efficiency_gains": "80% reduction in manual processes",
-            "accuracy_improvements": "95% error reduction in reporting"
-        } ```
+
+        
 🔭 What I'm Currently Working On
 
 🏦 Finance Analytics Dashboard: Building an automated reporting system processing donations
