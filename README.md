@@ -13,6 +13,8 @@
 I'm a data analyst with 4+ years of experience helping businesses make sense of their data. I've worked across healthcare tech, energy, and finance, basically anywhere there's messy data that needs organizing and stories that need telling.
 I love building dashboards that actually get used (not just pretty ones that sit in folders), automating the boring stuff so teams can focus on the interesting problems, and creating predictive models that help businesses plan ahead instead of just react.
 When I'm not diving into databases or wrestling with SQL queries, you'll find me on YouTube teaching others how to get into analytics. There's something really satisfying about helping someone have that "aha!" moment with data.
+
+### [🏆My Portfolio](https://issyya.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
