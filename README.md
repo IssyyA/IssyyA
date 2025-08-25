@@ -10,7 +10,8 @@
 </p>
 
 🚀 About Me
-```class DataAnalyst:
+``` python
+class DataAnalyst:
     def __init__(self):
         self.name = "Precious Andrew"
         self.role = "Data Analyst & Business Intelligence Specialist"
